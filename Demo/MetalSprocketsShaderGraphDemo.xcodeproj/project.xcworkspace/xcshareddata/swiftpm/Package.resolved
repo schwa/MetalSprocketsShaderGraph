@@ -1,0 +1,33 @@
+{
+  "originHash" : "e3774c8de7c23afe43de0e489b8aab0e1a8819cc21ac8de3d4b74b612893e159",
+  "pins" : [
+    {
+      "identity" : "metalcompilerplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/schwa/MetalCompilerPlugin",
+      "state" : {
+        "revision" : "36c761478a8e3fb934acf8ef2db4696af95069b4",
+        "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "swift-gyb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/schwa/swift-gyb",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b843115e2abd0243e30a1c7e14b47d2c893d4ff8"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
