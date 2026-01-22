@@ -1,5 +1,5 @@
 {
-  "originHash" : "24f678a4786cb9f6cc105b801845646ca03cd2c01286cbd8ed930264e3e45254",
+  "originHash" : "573ebdae7e5c15ed8b00be5c0d3fb9de92e92c78c9d2b8bccbc2a9c802c6fa7a",
   "pins" : [
     {
       "identity" : "metalcompilerplugin",
@@ -8,6 +8,15 @@
       "state" : {
         "revision" : "36c761478a8e3fb934acf8ef2db4696af95069b4",
         "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "metalsprockets",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/schwa/MetalSprockets",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1993fe9793529a7cfe3d70ebbf18cd32eca03417"
       }
     },
     {

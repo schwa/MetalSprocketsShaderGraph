@@ -11,12 +11,12 @@
       }
     },
     {
-      "identity" : "swift-gyb",
+      "identity" : "metalsprockets",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/schwa/swift-gyb",
+      "location" : "https://github.com/schwa/MetalSprockets",
       "state" : {
-        "branch" : "master",
-        "revision" : "b843115e2abd0243e30a1c7e14b47d2c893d4ff8"
+        "branch" : "main",
+        "revision" : "1993fe9793529a7cfe3d70ebbf18cd32eca03417"
       }
     },
     {

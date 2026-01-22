@@ -23,7 +23,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "../MetalSprockets"),
+        .package(url: "https://github.com/schwa/MetalSprockets", branch: "main"),
         .package(url: "https://github.com/schwa/MetalCompilerPlugin", from: "0.1.4"),
 
 
